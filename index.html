@@ -96,33 +96,190 @@
     <span>© SMB Training</span>
   </footer>
 
-  <!-- Fallback pentru rulare file://. Poți șterge acest bloc dacă folosești questions_full.json pe server. -->
-  <script id="qdata" type="application/json">
-  [
-    {"id":1,"text":"(Legea armelor) Exemplu 1?","choices":["A","B","C"],"correctIndex":0},
-    {"id":5,"text":"(Legea armelor) Exemplu 2?","choices":["A","B","C"],"correctIndex":1},
-    {"id":9,"text":"(Legea armelor) Exemplu 3?","choices":["A","B","C"],"correctIndex":2},
-    {"id":12,"text":"(Legea armelor) Exemplu 4?","choices":["A","B","C"],"correctIndex":0},
-    {"id":18,"text":"(Legea armelor) Exemplu 5?","choices":["A","B","C"],"correctIndex":1},
-    {"id":27,"text":"(Legea armelor) Exemplu 6?","choices":["A","B","C"],"correctIndex":2},
-    {"id":44,"text":"(Legea armelor) Exemplu 7?","choices":["A","B","C"],"correctIndex":0},
-    {"id":63,"text":"(Legea armelor) Exemplu 8?","choices":["A","B","C"],"correctIndex":1},
-    {"id":72,"text":"(Legea armelor) Exemplu 9?","choices":["A","B","C"],"correctIndex":2},
-    {"id":89,"text":"(Legea armelor) Exemplu 10?","choices":["A","B","C"],"correctIndex":0},
-
-    {"id":91,"text":"(Prim ajutor) Exemplu 1?","choices":["A","B","C"],"correctIndex":1},
-    {"id":108,"text":"(Prim ajutor) Exemplu 2?","choices":["A","B","C"],"correctIndex":2},
-
-    {"id":109,"text":"(Balistică) Exemplu 1?","choices":["A","B","C"],"correctIndex":0},
-    {"id":120,"text":"(Balistică) Exemplu 2?","choices":["A","B","C"],"correctIndex":1},
-    {"id":134,"text":"(Balistică) Exemplu 3?","choices":["A","B","C"],"correctIndex":2},
-
-    {"id":135,"text":"(Cauze justificative) Exemplu 1?","choices":["A","B","C"],"correctIndex":0},
-
-    {"id":142,"text":"(Sancțiuni) Exemplu 1?","choices":["A","B","C"],"correctIndex":1},
-    {"id":157,"text":"(Sancțiuni) Exemplu 2?","choices":["A","B","C"],"correctIndex":2}
-  ]
-  </script>
+  <!-- Fallback pentru rulare file:// (opțional). Dacă fetch la questions_full.json e blocat,
+       app.js va citi acest JSON embedded. -->
+  <script id="qdata" type="application/json">[
+  {
+    "id": 1,
+    "text": "(Legea armelor) Exemplu 1?",
+    "choices": [
+      "A",
+      "B",
+      "C"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 5,
+    "text": "(Legea armelor) Exemplu 2?",
+    "choices": [
+      "A",
+      "B",
+      "C"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": 9,
+    "text": "(Legea armelor) Exemplu 3?",
+    "choices": [
+      "A",
+      "B",
+      "C"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 12,
+    "text": "(Legea armelor) Exemplu 4?",
+    "choices": [
+      "A",
+      "B",
+      "C"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 18,
+    "text": "(Legea armelor) Exemplu 5?",
+    "choices": [
+      "A",
+      "B",
+      "C"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": 27,
+    "text": "(Legea armelor) Exemplu 6?",
+    "choices": [
+      "A",
+      "B",
+      "C"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 44,
+    "text": "(Legea armelor) Exemplu 7?",
+    "choices": [
+      "A",
+      "B",
+      "C"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 63,
+    "text": "(Legea armelor) Exemplu 8?",
+    "choices": [
+      "A",
+      "B",
+      "C"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": 72,
+    "text": "(Legea armelor) Exemplu 9?",
+    "choices": [
+      "A",
+      "B",
+      "C"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 89,
+    "text": "(Legea armelor) Exemplu 10?",
+    "choices": [
+      "A",
+      "B",
+      "C"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 91,
+    "text": "(Prim ajutor) Exemplu 1?",
+    "choices": [
+      "A",
+      "B",
+      "C"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": 108,
+    "text": "(Prim ajutor) Exemplu 2?",
+    "choices": [
+      "A",
+      "B",
+      "C"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 109,
+    "text": "(Balistică) Exemplu 1?",
+    "choices": [
+      "A",
+      "B",
+      "C"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 120,
+    "text": "(Balistică) Exemplu 2?",
+    "choices": [
+      "A",
+      "B",
+      "C"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": 134,
+    "text": "(Balistică) Exemplu 3?",
+    "choices": [
+      "A",
+      "B",
+      "C"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 135,
+    "text": "(Cauze justificative) Exemplu 1?",
+    "choices": [
+      "A",
+      "B",
+      "C"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 142,
+    "text": "(Sancțiuni) Exemplu 1?",
+    "choices": [
+      "A",
+      "B",
+      "C"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": 157,
+    "text": "(Sancțiuni) Exemplu 2?",
+    "choices": [
+      "A",
+      "B",
+      "C"
+    ],
+    "correctIndex": 2
+  }
+]</script>
 
   <!-- JS -->
   <script src="app.js" defer></script>
