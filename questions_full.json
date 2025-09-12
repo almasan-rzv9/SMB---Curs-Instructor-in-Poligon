@@ -20,6 +20,886 @@
     "correctIndex": 1
   },
   {
+    "id": 3,
+    "text": "Care este termenul de valabilitate al autorizației de procurare a armelor neletale supuse autorizării, din categoria C?",
+    "choices": [
+      "30 de zile",
+      "90 de zile",
+      "45 de zile"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": 4,
+    "text": "Ce stabilește Legea nr. 295/2004 privind regimul armelor, componentelor esențiale și al munițiilor, în raport cu regimul civil al acestora?",
+    "choices": [
+      "Categoriile de arme, componente esențiale și muniții, precum și condițiile în care deținerea, portul, folosirea și operațiunile cu acestea sunt permise pe teritoriul României",
+      "Exclusiv operațiunile cu arme desfășurate de instituțiile din domeniul apărării și ordinii publice",
+      "Regimul operațiunilor de import și export cu produse militare conform O.U.G. nr. 158/1999"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 5,
+    "text": "Căror activități nu li se aplică prevederile Legii nr. 295/2004 privind regimul armelor, componentelor esențiale și al munițiilor?",
+    "choices": [
+      "Operațiunilor cu arme, componente esențiale și muniții efectuate de instituțiile publice din domeniul apărării, securității naționale și ordinii publice, precum și celor destinate acestor instituții",
+      "Deținerii și folosirii armelor de către persoanele fizice autorizate",
+      "Deținerii, portului și comercializării armelor de către armurierii autorizați"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 6,
+    "text": "Cum este definită, potrivit Legii nr. 295/2004, noțiunea de „armă”?",
+    "choices": [
+      "Orice armă portabilă cu țeavă care poate arunca, este concepută să arunce sau poate fi transformată să arunce proiectile prin acțiunea unui combustibil de propulsie",
+      "Orice obiect sau dispozitiv a cărui funcționare determină aruncarea de proiectile, substanțe explozive, aprinse, luminoase, incendiare sau gaze, dacă se regăsește într-una din categoriile prevăzute în anexă",
+      "Componentele esențiale ale armelor, precum țeava, cutia mecanismelor sau capul închizător, ca obiecte separate"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": 7,
+    "text": "Cum este definită „arma de foc” în sensul Legii nr. 295/2004 privind regimul armelor?",
+    "choices": [
+      "Orice armă portabilă cu țeavă care poate arunca, este concepută să arunce sau poate fi transformată să arunce alice, un glonț ori un proiectil prin acțiunea unui combustibil de propulsie",
+      "Orice dispozitiv care lansează substanțe explozive, incendiare sau gaze, dacă este inclus în categoriile prevăzute în anexă",
+      "Componentele esențiale ale armelor, precum țeava, cilindrul sau închizătorul, considerate separat ca arme"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 8,
+    "text": "Cum este definită, conform Legii nr. 295/2004, noțiunea de „muniție” în contextul folosirii armelor de foc?",
+    "choices": [
+      "Muniția completă sau cartușele utilizate într-o armă de foc, dacă sunt supuse autorizării",
+      "Muniția completă sau componentele acesteia — tub cartuș, capse de inițiere, pulbere, gloanțe ori proiectile — folosite într-o armă de foc, cu condiția ca aceste componente să facă ele însele obiectul unei autorizații",
+      "Doar gloanțele sau proiectilele utilizate într-o armă de foc"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": 9,
+    "text": "Cum sunt definite, potrivit Legii nr. 295/2004, operațiunile cu arme, componente esențiale și muniții?",
+    "choices": [
+      "Producerea, modificarea, repararea, vânzarea, cumpărarea, închirierea, importul, exportul, transportul, depozitarea, casarea sau distrugerea armelor de foc, a componentelor esențiale și a munițiilor",
+      "Etapele tehnice de manipulare a armei înainte și după tragere, inclusiv încărcarea, tragerea și verificarea armei",
+      "Ansamblul de manevre pentru folosirea efectivă a armei într-un exercițiu de tragere"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 10,
+    "text": "Cum este definit „statul membru” în sensul Legii nr. 295/2004 privind regimul armelor și al munițiilor?",
+    "choices": [
+      "Stat membru al Uniunii Europene, al Spațiului Economic European sau Confederația Elvețiană",
+      "Stat membru NATO",
+      "Stat membru BRICS"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 11,
+    "text": "Care sunt categoriile de arme și muniții reglementate de Legea nr. 295/2004 privind regimul armelor, componentelor esențiale și al munițiilor?",
+    "choices": [
+      "Arme și muniții interzise, arme și muniții letale, arme și muniții neletale, arme și muniții cu potențial letal",
+      "Arme și muniții interzise, arme și muniții letale, arme și muniții neletale",
+      "Arme militare, arme de apărare, arme de vânătoare, arme de colecție"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 12,
+    "text": "Cum sunt definite, potrivit Legii nr. 295/2004, armele și munițiile cu potențial letal?",
+    "choices": [
+      "Armele și munițiile confecționate astfel încât, prin utilizare, să nu cauzeze moartea persoanelor",
+      "Armele și munițiile din categoria B, prin a căror utilizare se poate cauza moartea persoanelor",
+      "Armele și munițiile din categoria C, prin a căror utilizare se poate cauza moartea sau rănirea gravă a persoanelor; sunt incluse și armele vechi. Se prezumă potențialul letal la distanțe sub 5 m sau când se trage asupra organelor vitale, în special spre cap."
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 13,
+    "text": "Cum sunt clasificate armele, conform Legii nr. 295/2004, din punct de vedere al destinației?",
+    "choices": [
+      "Arme militare, arme de apărare și pază, arme de autoapărare, arme de vânătoare, arme de tir, arme de colecție sau comemorative",
+      "Arme cu aer comprimat, arme de foc scurte sau lungi, automate ori semiautomate",
+      "Arme și muniții interzise, letale, neletale sau cu potențial letal"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 14,
+    "text": "Cum sunt clasificate armele, potrivit Legii nr. 295/2004, din punct de vedere constructiv?",
+    "choices": [
+      "Arme cu aer comprimat sau gaze sub presiune, arme de foc scurte, arme de foc lungi, automate, semiautomate, cu repetiție, cu o singură lovitură, arme albe cu lamă",
+      "Arme militare, de autoapărare, vânătoare, tir sau colecție",
+      "Arme și muniții letale, neletale, interzise sau cu potențial letal"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 15,
+    "text": "Cum este definit instructorul în poligonul de tragere, conform Legii nr. 295/2004?",
+    "choices": [
+      "Persoana care desfășoară activități de instruire, îndrumare și supraveghere a tragerilor în poligoane autorizate și care deține atestatul de instructor în poligon, obținut conform legii",
+      "Persoana care a absolvit școala de antrenori și deține diplomă sau carnet de antrenor",
+      "Sportivul care îndeplinește anual baremele stabilite de federațiile sportive de specialitate"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 16,
+    "text": "Cum este definit armurierul, conform Legii nr. 295/2004?",
+    "choices": [
+      "Orice persoană fizică sau juridică, cu excepția armurierilor, autorizată să transfere arme ori muniții între state.",
+      "Orice persoană fizică sau juridică autorizată care desfășoară, integral sau parțial, activități de fabricare, comerț, schimb, închiriere, reparare, modificare ori conversie a armelor de foc, componentelor esențiale sau a muniției",
+      "Orice entitate care are ca obiect testarea și certificarea armelor, componentelor esențiale și muniției"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": 17,
+    "text": "Ce reprezintă permisul de armă, conform definiției din Legea nr. 295/2004?",
+    "choices": [
+      "Documentul emis de autoritatea competentă prin care o persoană fizică dovedește dreptul de a deține și, după caz, de a purta și folosi arme letale sau neletale supuse autorizării, precum și muniția aferentă, specificând tipul, marca, seria și calibrul acestora",
+      "Documentul emis la cerere care permite circulația armelor în alte state membre",
+      "Documentul care atestă înregistrarea armelor neletale, fără a conferi drept de port și folosire"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 18,
+    "text": "Ce reprezintă pașaportul european pentru arme de foc, conform Legii nr. 295/2004?",
+    "choices": [
+      "Documentul eliberat de persoana juridică autorizată care acordă dreptul de port și folosire a armelor în timpul serviciului",
+      "Documentul emis la cerere de autoritatea competentă, care permite titularului să circule pe teritoriile statelor membre și, după caz, ale statelor terțe, cu armele înscrise, conform legii statului de destinație",
+      "Documentul prin care se atestă înregistrarea armelor neletale"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": 19,
+    "text": "Care este regimul juridic al armelor și dispozitivelor neletale din categoria E, conform Legii nr. 295/2004?",
+    "choices": [
+      "Pot fi deținute și, după caz, purtate și folosite de persoane fizice și juridice fără înregistrare sau autorizare, în condițiile legii",
+      "Pot fi deținute și folosite doar cu înregistrare sau autorizare prealabilă",
+      "Pot fi deținute de persoane fizice doar cu permis de armă și de persoane juridice doar cu autorizație"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 20,
+    "text": "Care este regimul de deținere și folosire al armelor din categoria B, conform Legii nr. 295/2004?",
+    "choices": [
+      "Pot fi deținute, purtate și folosite fără înregistrare sau autorizare",
+      "Pot fi deținute și folosite doar cu procedura de înregistrare",
+      "Pot fi deținute sau, după caz, purtate și folosite de persoanele fizice numai în baza permisului de armă, iar de persoanele juridice numai în baza autorizației emise în condițiile legii"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 21,
+    "text": "Ce tip de sisteme de ochire destinate armelor sunt interzise persoanelor fizice și juridice conform Legii nr. 295/2004?",
+    "choices": [
+      "Sisteme de ochire care funcționează pe principiul laser",
+      "Sisteme de ochire mecanice",
+      "Sisteme de ochire colorate"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 22,
+    "text": "Ce obligații au persoanele fizice și juridice autorizate în legătură cu armele din categoriile B, C și D, componentele esențiale și munițiile deținute?",
+    "choices": [
+      "Nu sunt obligate să permită controlul armelor, componentelor esențiale și munițiilor la solicitarea poliției",
+      "Sunt obligate să permită controlul acestora la solicitarea organelor de poliție și să asigure securitatea lor",
+      "Sunt obligate doar să asigure securitatea conform Normelor metodologice"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": 23,
+    "text": "În ce condiții pot fi procurate armele de foc lungi, letale, cu energie la gura țevii mai mare de 10.000 J, conform Legii nr. 295/2004?",
+    "choices": [
+      "Doar în vederea deținerii, numai ca arme de foc cu destinația colecție",
+      "Doar de către demnitari, magistrați, diplomați, militari și polițiști",
+      "De persoanele prevăzute de lege care exercită funcții de autoritate publică"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 24,
+    "text": "Ce obligații au deținătorii de arme letale și neletale supuse autorizării în ceea ce privește examinarea medicală și psihologică?",
+    "choices": [
+      "Sunt obligați să se supună examenului psihologic și/sau medical la recomandarea expresă a medicului ori psihologului adresată autorității competente",
+      "Nu au obligația de a se mai supune evaluărilor după obținerea permisului de armă",
+      "Legea nu prevede o astfel de obligație"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 25,
+    "text": "Ce obligație are o persoană care ia cunoștință despre existența unei arme sau a unor muniții deținute ilegal, pierdute ori abandonate?",
+    "choices": [
+      "Este obligată să anunțe de îndată cel mai apropiat organ de poliție",
+      "Nu are nicio obligație legală de a informa autoritățile",
+      "Trebuie să anunțe doar cea mai apropiată unitate militară"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 26,
+    "text": "Ce obligație legală revin rudelor sau persoanelor care locuiesc cu un deținător legal de arme, în cazul decesului ori dispariției acestuia?",
+    "choices": [
+      "Să anunțe cea mai apropiată unitate de poliție și să depună armele, componentele esențiale și munițiile la un armurier autorizat, în termen de 15 zile",
+      "Să înstrăineze de urgență armele și munițiile către alt deținător autorizat",
+      "Nu au nicio obligație legală în astfel de situații"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 27,
+    "text": "Ce tipuri de încărcătoare pentru arme de foc sunt interzise potrivit Legii nr. 295/2004?",
+    "choices": [
+      "Cele care pot conține peste 15 cartușe (arme scurte) sau peste 3 cartușe (arme lungi)",
+      "Cele care pot conține peste 20 cartușe (arme scurte) sau peste 10 cartușe (arme lungi)",
+      "Legea nu prevede astfel de interdicții pentru încărcătoare"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": 28,
+    "text": "Când se dobândește dreptul legal de procurare, deținere sau, după caz, de port și folosire a armelor letale?",
+    "choices": [
+      "De la data emiterii autorizației de procurare sau a permisului de armă de către autoritatea competentă",
+      "După înregistrarea armelor la autoritatea competentă",
+      "După depunerea completă a dosarului de solicitare"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 29,
+    "text": "În cât timp trebuie anunțat organul de poliție competent teritorial dacă intervin schimbări în datele din permisul de armă sau dacă se epuizează spațiile pentru vize?",
+    "choices": [
+      "În termen de 15 zile de la data evenimentului",
+      "În termen de 10 zile de la data evenimentului",
+      "În termen de 2 zile de la data evenimentului"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": 30,
+    "text": "Ce regim legal are deținerea, portul sau folosirea armelor și munițiilor după expirarea valabilității permisului de armă?",
+    "choices": [
+      "Este interzisă",
+      "Este permisă",
+      "Legea nu prevede această situație"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 31,
+    "text": "Care este durata de valabilitate a permisului de armă, calculată de la data eliberării sau ultimei prelungiri, cu excepția perioadelor de suspendare?",
+    "choices": [
+      "10 ani",
+      "5 ani",
+      "90 de zile"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": 32,
+    "text": "Cine este exceptat de la obligația efectuării tragerii anuale într-un poligon autorizat, în scopul prelungirii valabilității permisului de armă?",
+    "choices": [
+      "Sportivii de tir",
+      "Instructorii în poligonul de tragere",
+      "Vânătorii"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 33,
+    "text": "Pentru ce tipuri de arme se poate acorda dreptul de deținere în mod nelimitat, potrivit Legii nr. 295/2004?",
+    "choices": [
+      "Pentru un număr nelimitat de arme de vânătoare, de tir sau de colecție",
+      "Pentru maximum două arme de apărare și pază",
+      "Pentru maximum două arme de tir cu țeavă lungă"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 34,
+    "text": "Pentru ce tipuri de arme se poate acorda dreptul de a purta și folosi, conform Legii nr. 295/2004?",
+    "choices": [
+      "Pentru două arme de apărare și pază",
+      "Pentru un număr limitat de arme de vânătoare",
+      "Pentru un număr limitat de arme de tir"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 35,
+    "text": "Pentru ce categorii de arme se poate acorda dreptul de deținere?",
+    "choices": [
+      "Armele de vânătoare, de tir, de colecție sau de autoapărare",
+      "Numai pentru armele de apărare și pază, de vânătoare și de tir",
+      "Pentru toate armele prevăzute în anexă"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 36,
+    "text": "Ce permite dreptul de deținere a armei conferit prin permisul de armă?",
+    "choices": [
+      "Posibilitatea de a purta arma și de a o folosi în scopul autorizat, precum și în caz de legitimă apărare sau stare de necesitate",
+      "Posibilitatea de a păstra arma la domiciliul sau reședința înscrisă în actul de identitate, în condițiile prevăzute în normele metodologice",
+      "Atât varianta a cât și varianta b"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": 37,
+    "text": "Pentru ce categorii de arme se poate acorda dreptul de a purta și folosi arme, conform Legii nr. 295/2004?",
+    "choices": [
+      "Armele de apărare și pază, de vânătoare și de tir",
+      "Armele de vânătoare, de tir și de colecție",
+      "Toate armele prevăzute în anexă"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 38,
+    "text": "Ce permite dreptul de a purta și folosi arme conferit titularului?",
+    "choices": [
+      "Posibilitatea de a păstra arma la domiciliu sau reședință",
+      "Posibilitatea de a purta arma asupra sa și de a o folosi în scopul autorizat, precum și în caz de legitimă apărare sau stare de necesitate",
+      "Ambele variante"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": 39,
+    "text": "În cât timp trebuie să se prezinte persoana care a procurat legal o armă letală în România la organul de poliție emitent al autorizației?",
+    "choices": [
+      "În termen de 3 zile lucrătoare de la data procurării",
+      "În termen de 3 zile calendaristice de la data procurării",
+      "În termen de 15 zile lucrătoare de la data procurării"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 40,
+    "text": "În cât timp trebuie să se prezinte la poliție persoana care a procurat, în condițiile legii, arme letale din afara României, pentru solicitarea permisului sau înscrierea armei în permisul existent?",
+    "choices": [
+      "În termen de 3 zile lucrătoare de la data procurării",
+      "În termen de 3 zile calendaristice de la data procurării",
+      "În termen de 15 zile lucrătoare de la data procurării"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 41,
+    "text": "Cum pot fi vândute, conform legii, armele letale procurate legal de către persoane fizice?",
+    "choices": [
+      "Direct către cumpărător, dacă proprietarul nu mai are nevoie de armă",
+      "Numai prin intermediul armurierilor sau intermediarilor autorizați să comercializeze astfel de arme",
+      "Legea nu prevede o reglementare privind vânzarea armelor letale"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": 42,
+    "text": "Prin ce modalități se poate realiza procurarea armelor letale, conform Legii nr. 295/2004?",
+    "choices": [
+      "Doar prin cumpărare",
+      "Doar prin vânzare-cumpărare",
+      "Cumpărare, donație, moștenire, sponsorizare, închiriere sau comodat"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 43,
+    "text": "Care este valabilitatea autorizației de procurare a armelor, conform prevederilor legale?",
+    "choices": [
+      "5 ani de la data eliberării, fără posibilitate de prelungire",
+      "90 de zile de la data eliberării, cu posibilitate de prelungire pentru o nouă perioadă de 90 de zile",
+      "30 de zile, cu posibilitate de prelungire"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": 44,
+    "text": "Una dintre condițiile cumulative pentru acordarea autorizației de procurare a armelor letale este:",
+    "choices": [
+      "Să nu fi pierdut sau să nu le fi fost sustrase arme în ultimii 2 ani din motive imputabile",
+      "Să dețină calitatea prevăzută de lege, dovedită prin documente stabilite prin normele metodologice, în funcție de destinația armelor",
+      "Să aibă o probitate morală înaltă"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": 45,
+    "text": "Ce tipuri de arme pot fi procurate de către vânători, conform Legii nr. 295/2004?",
+    "choices": [
+      "Arme de vânătoare, precum și arme de tir, numai din categoria armelor lungi",
+      "Arme de vânătoare și de tir, din categoria armelor lungi sau scurte",
+      "Doar arme de vânătoare"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 46,
+    "text": "Care dintre următoarele categorii de persoane pot fi autorizate să procure arme letale cu destinația apărare și pază?",
+    "choices": [
+      "Demnitarii, magistrații, diplomații, militarii și polițiștii în activitate",
+      "Persoanele ce exercită funcții ce implică autoritate publică, în timpul și după încetarea funcției",
+      "Persoanele incluse în programe de protecția martorilor"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 47,
+    "text": "În ce condiții se permite portul armelor de vânătoare la locul destinat vânătorii?",
+    "choices": [
+      "Arma poate fi încărcată, cu condiția să fie asigurată și purtată astfel încât să nu prezinte pericol",
+      "Arma trebuie purtată neapărat în toc sau husă, neîncărcată",
+      "Arma trebuie purtată pe umăr, indiferent de starea de siguranță"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 48,
+    "text": "Ce obligație are persoana care a făcut uz de armă, conform Legii nr. 295/2004?",
+    "choices": [
+      "Nu are nicio obligație legală dacă uzul de armă a fost justificat",
+      "Să acționeze imediat pentru acordarea primului ajutor și a asistenței medicale persoanelor rănite",
+      "Să elimine atacatorul, indiferent de consecințe"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": 49,
+    "text": "În ce condiții pot titularii face uz de armele de apărare și pază?",
+    "choices": [
+      "Numai în poligoane autorizate sau în caz de legitimă apărare, stare de necesitate ori caz fortuit",
+      "Numai în poligoane autorizate sau în caz de legitimă apărare ori stare de necesitate",
+      "Ori de câte ori consideră că este necesar"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": 50,
+    "text": "Pentru ce categorii de arme se poate acorda dreptul de a purta și folosi arme, conform Legii nr. 295/2004?",
+    "choices": [
+      "Armele de apărare și pază, de vânătoare și de tir",
+      "Armele de vânătoare, de tir și de colecție",
+      "Toate armele prevăzute în anexă"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 51,
+    "text": "Care este lungimea maximă a țevii unei arme de foc scurte, din punct de vedere constructiv?",
+    "choices": [
+      "Nu depășește 30 cm",
+      "Depășește 30 cm",
+      "Este de 60 cm"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 52,
+    "text": "Cum trebuie transportate armele de tir pentru care deținătorul are dreptul de a le purta și folosi?",
+    "choices": [
+      "Armele trebuie doar asigurate",
+      "Armele trebuie ținute în husă sau cutie, neîncărcate cu muniție și asigurate împotriva pierderii sau sustragerii",
+      "Arma poate fi încărcată dacă este purtată astfel încât să nu prezinte pericol"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": 53,
+    "text": "Care este perioada de valabilitate a permisului de armă, calculată de la data eliberării sau ultimei prelungiri, exceptând perioada de suspendare?",
+    "choices": [
+      "10 ani de la data eliberării",
+      "5 ani de la data eliberării",
+      "2 ani"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": 54,
+    "text": "Cum este definit, conform Legii nr. 295/2004, uzul de armă?",
+    "choices": [
+      "Executarea tragerii cu o armă",
+      "Executarea tragerii care produce un prejudiciu",
+      "Folosirea armei în scop de intimidare"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 55,
+    "text": "Ce are voie să facă titularul după expirarea valabilității permisului de armă?",
+    "choices": [
+      "Are dreptul de a purta arma o singură dată pentru a o depune la un armurier autorizat, în maximum 30 de zile",
+      "Are dreptul de a purta arma o singură dată pentru a o depune la un armurier autorizat, în maximum 60 de zile",
+      "Nu are dreptul de a o deține, purta sau folosi sub nicio formă"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 56,
+    "text": "În ce condiții se prelungește valabilitatea permisului de armă?",
+    "choices": [
+      "Pentru 5 ani, dacă titularul prezintă dovada tragerii anuale într-un poligon autorizat, cu excepția posesorilor de arme de vânătoare",
+      "Pentru 5 ani, cu excepția posesorilor de arme neletale",
+      "Pentru 5 ani, cu excepția posesorilor de arme de apărare și pază"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 57,
+    "text": "Pentru ce categorii de arme se poate acorda dreptul de deținere, fără limită numerică?",
+    "choices": [
+      "Pentru un număr nelimitat de arme de vânătoare, de tir sau de colecție",
+      "Pentru două arme de apărare și pază",
+      "Pentru un număr nelimitat de arme de vânătoare, de tir sau de apărare și pază"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 58,
+    "text": "Pentru ce tipuri de arme se poate acorda dreptul de a purta și folosi arme?",
+    "choices": [
+      "Pentru două arme de apărare și pază",
+      "Pentru un număr nelimitat de arme de colecție",
+      "Pentru un număr limitat de arme de tir"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 59,
+    "text": "Când este obligatorie notificarea titularului permisului de armă cu privire la expirarea acestuia?",
+    "choices": [
+      "Este obligatorie, începând cu 6 luni înainte, dar nu mai târziu de 30 de zile înainte de expirare",
+      "Este obligatorie cu 30 de zile înainte de expirare",
+      "Nu este obligatorie"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 60,
+    "text": "În ce situație se anulează dreptul de deținere a armelor?",
+    "choices": [
+      "Dacă titularul a decedat sau a fost declarat dispărut prin hotărâre judecătorească rămasă definitivă",
+      "Dacă există indicii comportamentale care impun o examinare psihologică și/sau medicală",
+      "Dacă a fost săvârșită o contravenție sancționabilă cu suspendarea dreptului"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 61,
+    "text": "În ce situație se suspendă dreptul de deținere a armelor?",
+    "choices": [
+      "Când există indicii comportamentale temeinice ce impun o examinare psihologică și/sau medicală",
+      "Dacă titularul refuză examenul psihologic și/sau medical",
+      "Dacă s-a constatat că dreptul a fost acordat pe baza unor documente false"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 62,
+    "text": "În cât timp trebuie depusă dovada depunerii armelor la un armurier autorizat, împreună cu documentele care atestă dreptul de deținere?",
+    "choices": [
+      "În termen de 30 de zile de la data luării la cunoștință a măsurii",
+      "În termen de 10 zile de la data luării la cunoștință a măsurii",
+      "În termen de 30 de zile de la data depunerii armelor"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": 63,
+    "text": "Care este una dintre condițiile ce trebuie respectate pentru portul armei de apărare și pază de către titular?",
+    "choices": [
+      "Arma trebuie să fie asigurată și să nu fie armată",
+      "Arma trebuie să fie asigurată și neîncărcată cu muniție",
+      "Arma trebuie să fie armată și purtată în holster"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 64,
+    "text": "În ce condiții pot titularii face uz de armele de apărare și pază?",
+    "choices": [
+      "Numai în poligoanele autorizate sau în caz de legitimă apărare, stare de necesitate ori caz fortuit",
+      "Numai în poligoanele autorizate sau în caz de legitimă apărare ori stare de necesitate",
+      "Ori de câte ori consideră că este necesar"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": 65,
+    "text": "Cum se face portul armei de vânătoare în locul destinat vânătorii?",
+    "choices": [
+      "Arma poate fi încărcată, dar trebuie să fie asigurată și purtată astfel încât să nu prezinte pericol",
+      "Armele trebuie să fie asigurate și neîncărcate cu muniție",
+      "Arma trebuie să fie armată și purtată în holster"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 66,
+    "text": "Cum se face portul armei de vânătoare în locul destinat vânătorii?",
+    "choices": [
+      "Arma poate fi încărcată, dar trebuie să fie asigurată și purtată astfel încât să nu prezinte pericol",
+      "Armele trebuie să fie asigurate și neîncărcate cu muniție",
+      "Arma trebuie să fie armată și purtată în holster"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 67,
+    "text": "Cum trebuie transportate armele de tir pentru care deținătorul are dreptul de a le purta și folosi?",
+    "choices": [
+      "Armele trebuie transportate în husă sau cutie, neîncărcate cu muniție și asigurate împotriva pierderii sau furtului",
+      "Arma poate fi transportată încărcată, dacă este asigurată și purtată în condiții de siguranță",
+      "Arma trebuie doar să fie asigurată și nearmată"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 68,
+    "text": "Câte cartușe pot fi autorizate, la cerere, pentru colecționarii de arme, pentru fiecare armă din colecție?",
+    "choices": [
+      "Maximum 10 cartușe pentru câte o singură armă de fiecare calibru",
+      "Maximum 20 cartușe pentru câte o singură armă de fiecare calibru",
+      "Maximum 100 cartușe pentru câte o singură armă de fiecare calibru"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 69,
+    "text": "În ce condiții poate fi folosită muniția destinată colecției?",
+    "choices": [
+      "Doar în locul unde se află arma sau colecția, în caz de legitimă apărare",
+      "Doar pentru apărarea împotriva urșilor bruni",
+      "Doar în poligonul autorizat"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 70,
+    "text": "Cum pot organele de poliție verifica îndeplinirea condițiilor de păstrare și securitate a armelor?",
+    "choices": [
+      "Pot efectua oricând verificări la domiciliu",
+      "Pot efectua verificări doar după informarea prealabilă și cu acordul solicitantului, la domiciliu, reședință sau loc de rezidență",
+      "Pot efectua verificări fără acordul persoanei"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": 71,
+    "text": "Care dintre următoarele reprezintă un motiv legal de respingere a cererii de autorizare pentru procurarea unei arme?",
+    "choices": [
+      "Refuzul persoanei de a furniza documentele sau informațiile solicitate de autoritate",
+      "Neprezentarea solicitantului în termen de 5 ani",
+      "Solicitantul nu a împlinit vârsta de 21 de ani"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 72,
+    "text": "În ce condiții pot fi folosite armele cu tranchilizante, harpoanele de pescuit și armele de asomare?",
+    "choices": [
+      "Numai în spații delimitate care nu sunt accesibile publicului",
+      "Doar împotriva animalelor și mamiferelor acvatice, în scopul pentru care sunt destinate, fără a vătăma persoane",
+      "Exclusiv în incinta domiciliului sau reședinței deținătorului"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": 73,
+    "text": "În ce condiții pot fi transportate de la domiciliu la locul activității armele sau dispozitivele neletale utilitare și de agrement?",
+    "choices": [
+      "Dacă sunt ținute în husă, bagaj sau ambalaj și nu sunt încărcate cu muniție",
+      "Dacă sunt ținute în husă sau ambalaj, chiar dacă sunt încărcate cu muniție",
+      "Nu există prevederi legale privind transportul acestora"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 74,
+    "text": "Cum poate fi procurată muniția destinată armelor neletale?",
+    "choices": [
+      "Numai în baza permisului de armă sau a certificatului de deținător, de la armurieri autorizați",
+      "Numai de la armurieri, cu dovada notificării",
+      "Doar în baza autorizației de procurare"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 75,
+    "text": "Câte cartușe pot procura și deține persoanele care dețin arme neletale de autoapărare?",
+    "choices": [
+      "Maximum 25 de cartușe pentru o singură armă",
+      "Maximum 25 de cartușe pentru fiecare armă",
+      "Maximum 12 cartușe pentru o singură armă"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 76,
+    "text": "În ce condiții pot face uz de armă titularii dreptului de a purta și folosi arme neletale destinate autoapărării?",
+    "choices": [
+      "În poligoane autorizate sau în caz de legitimă apărare ori stare de necesitate",
+      "Doar în caz de legitimă apărare",
+      "Doar în stare de necesitate"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 77,
+    "text": "Care dintre următoarele este o condiție pentru acordarea autorizației de procurare a armelor neletale din categoria C?",
+    "choices": [
+      "Persoana nu a pierdut și nu i-au fost sustrase, în ultimii 5 ani, arme letale sau neletale supuse autorizării, din motive imputabile ei",
+      "Persoana nu a pierdut arme neletale în ultimii 5 ani",
+      "Persoana nu a pierdut arme letale supuse notificării"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 78,
+    "text": "Când este interzis portul armelor neletale destinate autoapărării?",
+    "choices": [
+      "Când nu sunt însoțite de documentul care atestă dreptul de port și folosire",
+      "Când sunt asigurate și nearmate",
+      "Când sunt purtate în toc și ascunse vederii"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 79,
+    "text": "În ce locuri este interzis portul armelor neletale de autoapărare?",
+    "choices": [
+      "În locuri aglomerate, pe stadioane, în săli de spectacol, adunări publice și în orice alt loc unde folosirea este interzisă prin lege",
+      "Dacă arma este asigurată și nearmată",
+      "Dacă arma este purtată în toc și ascunsă vederii"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 80,
+    "text": "În ce condiții este interzis portul armelor neletale destinate autoapărării?",
+    "choices": [
+      "Dacă deținătorul se află sub influența alcoolului, drogurilor, medicamentelor cu efecte similare, este obosit sau are afecțiuni temporare care pot crea pericol",
+      "Dacă arma este asigurată și nearmată",
+      "Dacă arma este purtată în toc și ascunsă vederii"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 81,
+    "text": "Ce document trebuie solicitat pentru scoaterea definitivă din România a unei arme neletale supuse notificării?",
+    "choices": [
+      "Avizul de scoatere definitivă din România a armei neletale și a muniției aferente",
+      "Acordul prealabil pentru export",
+      "Autorizația de introducere a armei în alt stat"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 82,
+    "text": "În ce termen trebuie persoanele care au înstrăinat o armă neletală supusă notificării să anunțe poliția pentru anularea mențiunilor?",
+    "choices": [
+      "În termen de 10 zile de la înstrăinarea armei",
+      "În termen de 15 zile de la înstrăinarea armei",
+      "În termen de 30 de zile de la înstrăinarea armei"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 83,
+    "text": "Ce poate face solicitantul în baza dovezii de notificare, conform Legii nr. 295/2004?",
+    "choices": [
+      "Poate procura o armă neletală supusă notificării de la orice armurier autorizat",
+      "Poate procura cel mult două arme neletale",
+      "Poate procura un număr nelimitat de arme neletale"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 84,
+    "text": "Ce obligație are solicitantul după procurarea unei arme neletale supuse notificării?",
+    "choices": [
+      "Să se prezinte la poliție, în termen de 5 zile de la procurare, pentru eliberarea certificatului de deținător",
+      "Să se prezinte la poliție în termen de 3 zile",
+      "Să solicite în 5 zile eliberarea permisului de armă"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 85,
+    "text": "Care este durata de valabilitate a autorizației de procurare a armelor neletale din categoria C?",
+    "choices": [
+      "30 de zile",
+      "90 de zile",
+      "45 de zile"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": 86,
+    "text": "În ce condiții pot procura arme neletale din categoria C cetățenii români și rezidenții?",
+    "choices": [
+      "După notificarea prealabilă a organelor competente",
+      "După obținerea autorizației de procurare",
+      "Doar dacă au împlinit 18 ani"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": 87,
+    "text": "Cum pot procura arme neletale din categoria D cetățenii români, rezidenții din state membre și străinii cu ședere legală în România?",
+    "choices": [
+      "După notificarea prealabilă a organelor competente",
+      "După obținerea autorizației de procurare",
+      "După împlinirea vârstei de 18 ani, fără altă condiție"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 88,
+    "text": "În ce situație se anulează dreptul de deținere sau, după caz, de port și folosire a armelor neletale supuse autorizării?",
+    "choices": [
+      "Dacă se constată că, la data eliberării permisului de armă, persoana nu îndeplinea condițiile legale",
+      "Dacă titularul a săvârșit contravenții sancționabile cu suspendare",
+      "Dacă, ulterior, titularul este diagnosticat cu o afecțiune psihologică"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 89,
+    "text": "În ce condiții se suspendă dreptul de deținere, port și folosire a armelor neletale supuse autorizării?",
+    "choices": [
+      "Când în urma unui examen medical se confirmă existența unor probleme psihologice sau afecțiuni ce împiedică menținerea autorizării",
+      "Dacă titularul a decedat sau a fost declarat dispărut prin hotărâre judecătorească definitivă",
+      "Dacă titularul a comis două contravenții în 2 ani sau o contravenție gravă"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 90,
+    "text": "Ce drepturi are titularul certificatului de deținător în ceea ce privește trecerea frontierei cu armele înscrise?",
+    "choices": [
+      "Poate trece frontiera de stat a României cu armele înscrise în document, fără a le putea înstrăina în afara teritoriului",
+      "Nu are dreptul să treacă frontiera de stat cu armele înscrise",
+      "Poate trece frontiera și înstrăina armele în afara teritoriului"
+    ],
+    "correctIndex": 0
+  },
+  {
     "id": 91,
     "text": "Care este un semn caracteristic în cazul unui stop cardio-respirator?",
     "choices": [
@@ -40,6 +920,166 @@
     "correctIndex": 0
   },
   {
+    "id": 93,
+    "text": "Ce este epistaxisul?",
+    "choices": [
+      "Sângerare la nivelul urechilor",
+      "Un virus",
+      "Sângerare nazală"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 94,
+    "text": "Care este unul dintre principiile de bază în acordarea primului ajutor?",
+    "choices": [
+      "Protejarea victimei de agravarea leziunilor și protecția celorlalți de a deveni victime",
+      "Reducerea aglomerației din zonă",
+      "Defibrilarea imediată a victimei"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 95,
+    "text": "Cum verificăm starea de conștiență și semnele vitale ale victimei?",
+    "choices": [
+      "Sunăm rudele victimei pentru a o calma",
+      "Discutăm cu victima, o observăm și o atingem pentru a verifica pulsul, temperatura sau eventualele leziuni",
+      "Apelăm 112 și așteptăm indicații"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": 96,
+    "text": "Care este scopul acordării primului ajutor premedical unei victime?",
+    "choices": [
+      "Să evite transportul victimei la spital",
+      "Să nu se apeleze inutil numărul de urgență 112",
+      "Să mențină victima în viață și să încetinească agravarea stării acesteia până la sosirea ambulanței"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 97,
+    "text": "Cum se face corect asigurarea locului unui accident?",
+    "choices": [
+      "Chemând forțele de ordine",
+      "Asigurând siguranța salvatorului, victimei și a celor din jur",
+      "Deplasând victima într-o zonă izolată și neaglomerată"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": 98,
+    "text": "Cum se verifică dacă o persoană respiră?",
+    "choices": [
+      "Vizual – observând mișcarea toracelui, auditiv – ascultând respirația, senzitiv – simțind aerul expirat",
+      "Ridicând persoana în șezut",
+      "Cerând victimei să respire pe nas și să expire pe gură"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 99,
+    "text": "Care este frecvența recomandată pentru compresiile toracice în timpul resuscitării?",
+    "choices": [
+      "80 compresii pe minut",
+      "60 compresii pe minut",
+      "100–120 compresii pe minut"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 100,
+    "text": "Cum se manifestă o hemoragie externă?",
+    "choices": [
+      "Prin scurgerea sângelui printr-o plagă vizibilă",
+      "Fără nicio sângerare vizibilă",
+      "Prin înnegrirea pielii (tegumentului)"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 101,
+    "text": "Care este durata maximă recomandată pentru menținerea garoului?",
+    "choices": [
+      "1,5 ore",
+      "1 oră",
+      "3 ore"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 102,
+    "text": "Ce reprezintă primul ajutor premedical?",
+    "choices": [
+      "O intervenție specială care permite salvatorului să aplice orice măsură consideră necesară",
+      "O intervenție rapidă în caz de accident, pentru înlăturarea cauzei, ameliorarea suferinței și prevenirea complicațiilor",
+      "O intervenție medicală efectuată doar de personal specializat"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": 103,
+    "text": "Cum se face corect eliberarea căilor respiratorii ale victimei?",
+    "choices": [
+      "Prin ridicarea bărbiei, hiperextensia capului, apăsarea frunții și îndepărtarea oricărei obstrucții vizibile din gură",
+      "Doar prin îndepărtarea oricărei cauze evidente sau presupuse de obstrucție din gură",
+      "Prin forțarea deschiderii gurii cu obiecte"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 104,
+    "text": "Ce poziție trebuie adoptată pentru victimă după reapariția semnelor vitale în urma acordării primului ajutor?",
+    "choices": [
+      "Se plasează victima în poziția de siguranță",
+      "Se așază victima într-o poziție cât mai confortabilă",
+      "Se lasă victima nesupravegheată"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 105,
+    "text": "Ce trebuie făcut în caz de suspiciune de hemoragie internă?",
+    "choices": [
+      "Se aplică un garou pe zona afectată",
+      "Se așază victima pe spate, cu picioarele ridicate la un unghi de 30–45° și se monitorizează semnele vitale",
+      "Se administrează lichide și se aplică comprese"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": 106,
+    "text": "Cum se acordă primul ajutor în cazul unei răni sângerânde?",
+    "choices": [
+      "Se acoperă rana și se oprește sângerarea prin aplicarea unei presiuni constante timp de 5 minute, apoi se pansează",
+      "Se oprește sângerarea prin presiune și se pansează zona cât mai strâns posibil",
+      "Se extrag corpurile străine și se aplică un pansament"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 107,
+    "text": "Cum este clasificată, din punct de vedere legal, apelarea numărului de urgență 112 în situații critice?",
+    "choices": [
+      "Facultativă",
+      "Obligatorie",
+      "Nu este prevăzută ca parte din primul ajutor"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": 108,
+    "text": "În ce condiții pot persoane fără pregătire medicală să acorde primul ajutor?",
+    "choices": [
+      "Pe baza cunoștințelor de cultură generală",
+      "Pe baza indicațiilor primite de la dispeceratul medical sau a cunoștințelor de bază, acționând cu bună-credință și intenția de a salva viața",
+      "Pe baza intuiției sau a instinctului"
+    ],
+    "correctIndex": 1
+  },
+  {
     "id": 109,
     "text": "Ce reprezintă reculul unei arme?",
     "choices": [
@@ -56,6 +1096,246 @@
       "Aprinderea, inflamarea, stingerea",
       "Inflamarea, aprinderea, stingerea",
       "Aprinderea, inflamarea, arderea propriu-zisă"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 111,
+    "text": "Care sunt cele două ramuri principale ale balisticii?",
+    "choices": [
+      "Internă și externă",
+      "Urcătoare și coborâtoare",
+      "Interioară și exterioară"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 112,
+    "text": "Ce reprezintă traiectoria în balistică?",
+    "choices": [
+      "Drumul parcurs de cartuș în aer",
+      "Drumul parcurs de glonț în interiorul țevii",
+      "Drumul centrului de greutate al glonțului în aer, de la ieșirea din țeavă până la cădere"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 113,
+    "text": "Care sunt câteva dintre elementele traiectoriei?",
+    "choices": [
+      "Ramura externă și internă",
+      "Ramura urcătoare și coborâtoare",
+      "Ramura directă și indirectă"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": 114,
+    "text": "Care dintre următoarele reprezintă o cauză a rateului?",
+    "choices": [
+      "Capsa nu funcționează sau nu se aprinde pulberea",
+      "Trăgătorul nu nimerește ținta",
+      "Trăgătorul nu a acționat corect trăgaciul"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 115,
+    "text": "Care sunt componentele unui cartuș cu alice?",
+    "choices": [
+      "Tubul cartuș, carcasa metalică, dulia, corpul tubului, capsa, încărcătura (alice/proiectil), bura",
+      "Tubul, corpul, capsa, glonț",
+      "Dulia, bura, încărcătura"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 116,
+    "text": "Cum se clasifică armele cu țeavă lisă în funcție de putere?",
+    "choices": [
+      "Putere mijlocie (cal. 12, 16, 20), redusă (cal. 24, 28, 32, 36), mare (cal. 4, 8, 10)",
+      "Mare (cal. 24, 28, 40), mijlocie (20, 26, 30), redusă (4, 8, 2, 6)",
+      "Nu există clasificare"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 117,
+    "text": "Care poate fi cauza dublei alimentări la pistolul Glock 9x19 mm?",
+    "choices": [
+      "Reculul",
+      "Conducerea manșonului",
+      "Încărcătorul nu este introdus complet"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": 118,
+    "text": "Ce trebuie făcut dacă încărcătorul nu este introdus complet și arma nu trage?",
+    "choices": [
+      "Se lovește baza încărcătorului cu podul palmei, se trage de manșon, se eliberează și se continuă tragerea",
+      "Se încetează tragerea și se schimbă cuiul percutor",
+      "Se armează pistolul de două–trei ori și se continuă tragerea"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 119,
+    "text": "Ce rol are manșonul închizătorului la un pistol?",
+    "choices": [
+      "Reîncarcă pistolul, împinge cartușul în camera cartușului și adăpostește mecanismul de percuție și extracție",
+      "Adăpostește mecanismul de dare a focului",
+      "Încarcă magazia cu cartușe"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 120,
+    "text": "Din ce părți este formată țeava unei arme?",
+    "choices": [
+      "Camera cartușului, canalul țevii și gura țevii",
+      "Canalul țevii și cele două capete identice",
+      "Doar din canalul țevii"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 121,
+    "text": "Ce rol are încărcătorul sau magazia unei arme?",
+    "choices": [
+      "Să armeze pistolul",
+      "Să înmagazineze gloanțele",
+      "Să înmagazineze cartușele, care vor intra pe rând în camera cartușului"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 122,
+    "text": "Care este unul dintre principiile fundamentale la tragerea cu armamentul?",
+    "choices": [
+      "Armele trebuie ținute îndreptate către țintă sau către o direcție sigură",
+      "Priza corectă pe armă",
+      "Armele trebuie manevrate doar cu avizul instructorului"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 123,
+    "text": "Ce rol are manșonul închizătorului la un pistol?",
+    "choices": [
+      "Reîncarcă pistolul, împinge cartușul în culată și adăpostește mecanismul de percuție și de extracție",
+      "Adăpostește doar mecanismul de dare a focului",
+      "Încarcă magazia cu cartușe"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 124,
+    "text": "Care este rolul ghinturilor din interiorul țevii?",
+    "choices": [
+      "Să imprime glonțului o mișcare de rotație în jurul axei sale",
+      "Să faciliteze tragerea spre înapoi a manșonului închizătorului",
+      "Să imprime cartușului o mișcare de rotație în jurul axei sale"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 125,
+    "text": "Ce rol are mecanismul de percuție?",
+    "choices": [
+      "Eliberează cocoșul sau strikerul",
+      "Lovește capsa cartușului, inițiind astfel arderea pulberii",
+      "Extrage tubul cartuș din cameră"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": 126,
+    "text": "Ce tipuri de arme cu țeavă lisă sunt cel mai frecvent întâlnite în România?",
+    "choices": [
+      "Cu putere redusă (cal. 24, 28, 32, 36)",
+      "Cu mare putere (cal. 4, 8, 10)",
+      "Cu putere mijlocie (cal. 12, 16, 20)"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 127,
+    "text": "După ce criteriu se pot clasifica armele de vânătoare?",
+    "choices": [
+      "După greutatea țevii și aparatele de ochire",
+      "După configurația interiorului țevii și tipul de muniție folosit",
+      "După lungimea totală a țevii, inclusiv camera cartușului"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": 128,
+    "text": "Care este rolul burei în cartușul de vânătoare?",
+    "choices": [
+      "Imprimă mișcarea de rotație a alicelor",
+      "Reduce uzura țevii",
+      "Oprește ieșirea gazelor pe lângă ea și împinge alicele spre gura țevii ca un piston"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 129,
+    "text": "Ce influențează viteza inițială a glonțului?",
+    "choices": [
+      "Distanța de zbor a glonțului, curbura traiectoriei și puterea de pătrundere",
+      "Unghiul de zvâcnire al țevii după plecarea glonțului",
+      "Procesul de ardere a pulberii"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 130,
+    "text": "Prin ce mijloc se poate controla reculul și reacția organismului la acesta?",
+    "choices": [
+      "Priza corectă pe armă",
+      "Modificarea forței aplicate pe trăgaci",
+      "Prelungirea arcului trăgaciului de către un armurier"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 131,
+    "text": "Ce proces are loc în etapa de balistică interioară?",
+    "choices": [
+      "Deplasarea glonțului prin aer, de la ieșirea din țeavă până la țintă",
+      "Aprinderea pulberii și formarea presiunii care propulsează glonțul prin țeavă",
+      "Deplasarea glonțului după impactul cu ținta"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": 132,
+    "text": "Ce studiază balistica exterioară?",
+    "choices": [
+      "Comportamentul armei înainte de tragere",
+      "Comportamentul glonțului în interiorul țevii",
+      "Comportamentul glonțului în aer, după părăsirea țevii"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 133,
+    "text": "Ce influențează viteza inițială a glonțului?",
+    "choices": [
+      "Distanța de tragere și condițiile meteorologice",
+      "Forma țintei și temperatura mediului",
+      "Presiunea gazelor rezultate din arderea pulberii și lungimea țevii"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 134,
+    "text": "Care este rolul rotației glonțului imprimată de ghinturi?",
+    "choices": [
+      "Crește reculul armei",
+      "Reduce viteza glonțului",
+      "Asigură stabilitatea traiectoriei glonțului și precizia tragerii"
     ],
     "correctIndex": 2
   },
@@ -80,6 +1360,56 @@
     "correctIndex": 0
   },
   {
+    "id": 137,
+    "text": "Care dintre următoarele reprezintă cauze justificative?",
+    "choices": [
+      "Legitima apărare, starea de necesitate, exercitarea unui drept, îndeplinirea unei obligații, consimțământul persoanei vătămate",
+      "Minoritatea făptuitorului, intoxicația, iresponsabilitatea, eroarea",
+      "Constrângerea fizică sau morală, excesul de neimputabilitate"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 138,
+    "text": "Când se consideră că o persoană a acționat în legitimă apărare?",
+    "choices": [
+      "Când fapta a fost comisă pentru a înlătura un atac material, direct, imediat și injust, ce pune în pericol o persoană, drepturi sau un interes general, iar apărarea este proporțională cu gravitatea atacului",
+      "Când fapta este comisă pentru a înlătura un atac injust asupra unor drepturi generale",
+      "Când fapta este comisă pentru a salva viața cu condiția ca urmările să nu fie mai grave"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 139,
+    "text": "Ce reprezintă constrângerea fizică, ca situație ce înlătură răspunderea penală?",
+    "choices": [
+      "Situația în care o persoană, supusă unei presiuni fizice căreia nu i-a putut rezista, a săvârșit o faptă prevăzută de legea penală",
+      "Situația în care o persoană cedează unei amenințări psihologice (presiune morală)",
+      "Situația în care se depășesc limitele legitimei apărări"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 140,
+    "text": "Cine este considerat a fi în legitimă apărare potrivit legii?",
+    "choices": [
+      "Persoana care comite fapta pentru a respinge pătrunderea într-o locuință sau spațiu împrejmuit, fără drept, prin violență, viclenie, efracție sau pe timp de noapte",
+      "Persoana care înlătură un atac material, direct, imediat și injust",
+      "Persoana care comite fapta pentru a preveni un pericol, indiferent de gravitatea urmării"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 141,
+    "text": "Când se consideră că o persoană se află în stare de necesitate?",
+    "choices": [
+      "Când înlătură un atac material injust, proporțional cu gravitatea acestuia",
+      "Când apără un interes general împotriva unui atac direct",
+      "Când săvârșește o faptă pentru a salva viața, integritatea sau bunuri importante de la un pericol imediat, dacă urmările faptei nu sunt vădit mai grave"
+    ],
+    "correctIndex": 2
+  },
+  {
     "id": 142,
     "text": "Cum se sancționează încredințarea armelor letale de către posesorii autorizați unor persoane neautorizate, conform Legii nr. 295/2004?",
     "choices": [
@@ -91,11 +1421,151 @@
   },
   {
     "id": 143,
-    "text": "Cum se sancționează nerespectarea obligației privind operațiunile cu încărcătoare ... ?",
+    "text": "Cum se sancționează nerespectarea obligației privind operațiunile cu încărcătoare care se pot monta pe arme semiautomate cu percuție centrală sau cu repetiție și care: – pot conține mai mult de 20 de cartușe (arme de foc scurte); – pot conține mai mult de 10 cartușe (arme cu țeavă lungă), conform categoriei A pct. 6 și 7 din anexă?",
     "choices": [
       "Cu amendă contravențională și aplicarea sancțiunii complementare: anularea dreptului de deținere, port și folosire a armelor, precum și confiscarea armelor",
       "Cu amendă contravențională și aplicarea sancțiunii complementare: suspendarea dreptului de deținere, port și folosire a armelor, precum și confiscarea armelor",
       "Cu amendă contravențională și suspendarea dreptului de port și folosire a armelor"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 144,
+    "text": "Ce reprezintă schimbarea sau modificarea încărcătorului ori a camerei cartușului în scopul de a permite încărcarea cu mai mult de 3 cartușe?",
+    "choices": [
+      "Infracțiune sancționată cu amendă penală sau închisoare",
+      "Contravenție sancționată cu amendă contravențională",
+      "Contravenție sancționată cu amendă contravențională și aplicarea sancțiunii complementare: anularea dreptului de deținere, port și folosire a armelor, precum și confiscarea armelor"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 145,
+    "text": "Cum se sancționează nerespectarea obligației privind modul de transport al armelor de tir pentru care s-a acordat dreptul de port și folosire?",
+    "choices": [
+      "Amendă contravențională și anularea dreptului de deținere, port și folosire a armelor",
+      "Amendă și confiscarea dreptului de deținere, port și folosire a armelor",
+      "Doar amendă contravențională"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 146,
+    "text": "Ce reprezintă nerespectarea obligației de a acorda primul ajutor și de a anunța imediat poliția în urma uzului de armă, indiferent dacă au rezultat sau nu victime ori pagube?",
+    "choices": [
+      "Infracțiune",
+      "Contravenție",
+      "Nu este reglementat de lege"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": 147,
+    "text": "Cum este sancționată pierderea unei arme letale sau neletale supuse autorizării, conform Legii nr. 295/2004?",
+    "choices": [
+      "Cu amendă contravențională",
+      "Cu amendă penală",
+      "Cu amendă contravențională și sancțiunea complementară: anularea dreptului de deținere, port și folosire a armelor"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 148,
+    "text": "Cum se sancționează nerespectarea obligației privind portul armelor de vânătoare în locurile special destinate?",
+    "choices": [
+      "Cu retragerea permisului de vânător",
+      "Cu amendă contravențională și anularea dreptului de deținere, port și folosire a armelor",
+      "Cu amendă contravențională și suspendarea dreptului de deținere, port și folosire a armelor pentru 6 luni"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 149,
+    "text": "Cum se sancționează încredințarea armelor pentru care s-a obținut dreptul de deținere altor persoane, în afara poligonului autorizat?",
+    "choices": [
+      "Cu amendă contravențională",
+      "Cu amendă contravențională și anularea dreptului de deținere, port și folosire a armelor",
+      "Cu amendă contravențională și suspendarea dreptului de deținere, port și folosire a armelor pentru 6 luni"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 150,
+    "text": "Cum este sancționată lăsarea armei de vânătoare în gaj sau ca o altă formă de garanție?",
+    "choices": [
+      "Cu amendă contravențională",
+      "Cu amendă contravențională și anularea dreptului de deținere, port și folosire a armelor",
+      "Cu amendă contravențională și suspendarea dreptului de deținere, port și folosire a armelor pentru 6 luni"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 151,
+    "text": "Cum se sancționează procurarea muniției pentru arme neletale fără permis de armă sau certificat de deținător?",
+    "choices": [
+      "Cu amendă",
+      "Cu confiscarea muniției",
+      "Cu amendă contravențională și sancțiunea complementară de confiscare a armelor sau a munițiilor, după caz"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 152,
+    "text": "Când se aplică sancțiunea complementară de suspendare a dreptului de deținere, port și folosire a armelor pentru 6 luni?",
+    "choices": [
+      "Când posesorul încredințează arma altei persoane în afara unui poligon autorizat",
+      "Când se face uz de armă letală fără drept",
+      "Când se face uz de armă neletală fără drept"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 153,
+    "text": "În ce situație se aplică sancțiunea complementară de anulare a dreptului de deținere și de port și folosire a armelor, precum și confiscarea armelor sau munițiilor?",
+    "choices": [
+      "Când, la armele de vânătoare semiautomate, se modifică încărcătorul sau camera cartușului astfel încât să permită încărcarea cu mai mult de 3 cartușe",
+      "Când cumpărarea a fost realizată de la un armurier",
+      "Când deținătorul nu se prezintă cu armele pentru înregistrarea proiectilului și tubului-martor"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 154,
+    "text": "În ce situație se dispune suspendarea dreptului de port și folosire a armelor letale?",
+    "choices": [
+      "Când titularul a săvârșit o contravenție pentru care legea prevede sancțiunea contravențională complementară a suspendării dreptului",
+      "Când titularul a comis două contravenții în 2 ani",
+      "Când titularul nu se supune unei examinări medicale la cererea poliției"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 155,
+    "text": "Când se dispune anularea dreptului de port și folosire a armelor letale?",
+    "choices": [
+      "Când se constată că, la data acordării permisului, titularul nu îndeplinea condițiile legale",
+      "Când titularul a săvârșit o abatere disciplinară",
+      "Când titularul a săvârșit o contravenție care atrage doar suspendarea dreptului"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 156,
+    "text": "Când se anulează dreptul de port și folosire a armelor neletale supuse autorizării?",
+    "choices": [
+      "Dacă la momentul acordării dreptului nu erau îndeplinite condițiile legale",
+      "Dacă titularul a săvârșit o contravenție sancționabilă cu suspendarea dreptului",
+      "Dacă titularul are probleme medicale ce împiedică autorizarea"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 157,
+    "text": "În ce situație se suspendă dreptul de deținere sau de port și folosire a armelor neletale?",
+    "choices": [
+      "Dacă, în urma unui examen medical, se constată probleme psihologice sau afecțiuni care împiedică menținerea autorizării",
+      "Dacă titularul este decedat sau declarat dispărut",
+      "Dacă titularul a comis contravenții repetate"
     ],
     "correctIndex": 0
   }
