@@ -1,0 +1,102 @@
+[
+  {
+    "id": 1,
+    "text": "Care este vârsta minimă prevăzută de lege pentru a putea urma cursul de calificare profesională „Instructor în poligonul de tragere”?",
+    "choices": [
+      "Persoanele care au împlinit vârsta de 21 de ani",
+      "Persoanele care au împlinit vârsta de 18 ani",
+      "Persoanele care au împlinit vârsta de 24 de ani"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 2,
+    "text": "Care este limita maximă legală pentru cantitatea de muniție destinată armelor de tir sportiv, în cazul deținerii legale a dreptului de port și folosire?",
+    "choices": [
+      "100 de cartușe pentru fiecare armă",
+      "1.000 de cartușe pentru fiecare armă pentru care există drept de port și folosire",
+      "1.000 de cartușe pentru o singură armă din fiecare calibru pentru care există drept de port și folosire"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": 91,
+    "text": "Care este un semn caracteristic în cazul unui stop cardio-respirator?",
+    "choices": [
+      "Accelerarea bătăilor inimii",
+      "Insuficiența venoasă",
+      "Absența pulsului pe artera carotidă"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 92,
+    "text": "Ce parte a corpului este afectată în cazul unei entorse?",
+    "choices": [
+      "Articulațiile, fără deplasarea capetelor oaselor",
+      "Articulațiile, cu deplasarea oaselor din alcătuirea articulației",
+      "Tegumentul, formând o plagă vizibilă cu osul rupt"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 109,
+    "text": "Ce reprezintă reculul unei arme?",
+    "choices": [
+      "Mișcarea armei spre înapoi cauzată de presiunea gazelor asupra componentelor armei (manșon, închizător) prin intermediul tubului cartuș",
+      "Reacția normală a corpului la zgomotul tragerii",
+      "Procesul de ardere a pulberii în interiorul țevii"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 110,
+    "text": "Care sunt etapele de bază ale arderii pulberii într-un cartuș?",
+    "choices": [
+      "Aprinderea, inflamarea, stingerea",
+      "Inflamarea, aprinderea, stingerea",
+      "Aprinderea, inflamarea, arderea propriu-zisă"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 135,
+    "text": "Care sunt cauzele justificative care înlătură caracterul penal al faptei?",
+    "choices": [
+      "Legitima apărare, starea de necesitate, exercitarea unui drept sau îndeplinirea unei obligații; consimțământul victimei",
+      "Constrângerea morală, constrângerea fizică, excesul de neimputabilitate, minoritatea făptuitorului",
+      "Iresponsabilitatea, cazul fortuit, intoxicația, eroarea"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 136,
+    "text": "În ce situație se prezumă că o persoană a acționat în legitimă apărare?",
+    "choices": [
+      "Când comite fapta pentru a respinge pătrunderea într-o locuință sau spațiu împrejmuit, fără drept, prin violență, viclenie, efracție sau pe timp de noapte",
+      "Când comite fapta pentru a înlătura un pericol imediat, dacă urmările nu sunt mai grave",
+      "Când comite fapta pentru a-și procura hrană"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 142,
+    "text": "Cum se sancționează încredințarea armelor letale de către posesorii autorizați unor persoane neautorizate, conform Legii nr. 295/2004?",
+    "choices": [
+      "Cu amendă penală",
+      "Cu amendă contravențională și aplicarea sancțiunii complementare: anularea dreptului de deținere, port și folosire a armelor, precum și confiscarea armelor",
+      "Cu retragerea definitivă a autorizației"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": 143,
+    "text": "Cum se sancționează nerespectarea obligației privind operațiunile cu încărcătoare ... ?",
+    "choices": [
+      "Cu amendă contravențională și aplicarea sancțiunii complementare: anularea dreptului de deținere, port și folosire a armelor, precum și confiscarea armelor",
+      "Cu amendă contravențională și aplicarea sancțiunii complementare: suspendarea dreptului de deținere, port și folosire a armelor, precum și confiscarea armelor",
+      "Cu amendă contravențională și suspendarea dreptului de port și folosire a armelor"
+    ],
+    "correctIndex": 0
+  }
+]

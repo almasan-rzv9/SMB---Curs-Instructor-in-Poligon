@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="ro">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>SMB – Curs Instructor în Poligon</title>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700;800&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <!-- ===== HEADER ===== -->
+  <header class="site-header container">
+    <h1 class="brand"><span class="logo" aria-hidden="true"></span> SMB – Curs Instructor în Poligon</h1>
+    <p class="subtitle">Verifica-ti cunostintele pentru cursul de instructor in Poligon.</p>
+  </header>
+
+  <!-- ===== START ===== -->
+  <main id="start-screen" class="container">
+    <section class="card glass">
+      <div class="panel compact">
+        <!-- Stats -->
+        <div class="panel-stats">
+          <div class="stat"><span>ÎNTREBĂRI</span><b id="stat-total">0</b></div>
+          <div class="stat ok"><span>CORECTE</span><b id="stat-correct">0</b></div>
+          <div class="stat no"><span>GREȘITE</span><b id="stat-wrong">0</b></div>
+          <div class="stat dim"><span>SELECȚIE</span><b id="stat-picked">0</b></div>
+        </div>
+
+        <!-- Actions -->
+        <div class="panel-actions">
+          <button id="start-exam" class="btn primary" type="button">Începe testul (18)</button>
+          <div class="spacer"></div>
+          <div class="module-row">
+            <span class="time-label">Antrenament pe module (fără timp):</span>
+            <div class="module-buttons">
+              <button type="button" class="btn ghost" id="btn-mod-1">Modulul 1 (1–90)</button>
+              <button type="button" class="btn ghost" id="btn-mod-2">Modulul 2 (91–108)</button>
+              <button type="button" class="btn ghost" id="btn-mod-3">Modulul 3 (109–134)</button>
+              <button type="button" class="btn ghost" id="btn-mod-4">Modulul 4 (135–141)</button>
+              <button type="button" class="btn ghost" id="btn-mod-5">Modulul 5 (142–157)</button>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <p class="hint">
+        Implicit se aleg 18 întrebări aleatoriu. Distribuție pe module (10/2/3/1/2). Timpul este setat implicit la 45 minute. Promovare: 12 din 18.
+      </p>
+      <p class="placeholder">Apasă „Începe testul (18)” pentru a porni.</p>
+    </section>
+  </main>
+
+  <!-- ===== QUIZ ===== -->
+  <section id="quiz-screen" class="container hidden" aria-live="polite">
+    <article class="card glass">
+      <div class="q-head">
+        <div class="progressbar" aria-hidden="true">
+          <div id="bar" class="bar"></div>
+        </div>
+        <div id="progress" class="muted" aria-atomic="true"></div>
+        <div class="spacer"></div>
+        <div id="timer" class="timer" aria-live="polite">45:00</div>
+      </div>
+
+      <h2 id="question-text" class="question"></h2>
+      <div id="choices" class="choices" role="listbox" aria-label="Răspunsuri"></div>
+
+      <div class="controls">
+        <button id="prev-btn" class="btn" type="button">Înapoi</button>
+        <button id="next-btn" class="btn" type="button" disabled>Următoarea</button>
+        <button id="finish-btn" class="btn primary" type="button" disabled>Finalizează</button>
+      </div>
+    </article>
+  </section>
+
+  <!-- ===== RESULT ===== -->
+  <section id="result-screen" class="container hidden">
+    <article class="card glass">
+      <h2 class="title">Rezultat</h2>
+      <p id="scoreline" class="scoreline"></p>
+
+      <div class="controls">
+        <button id="retry-btn" class="btn" type="button">Reia</button>
+        <button id="export-csv" class="btn ghost" type="button">Export CSV</button>
+        <button id="export-pdf" class="btn ghost" type="button">Export PDF</button>
+      </div>
+
+      <h3 class="title sm">Revizuire</h3>
+      <div id="review-list" class="review"></div>
+    </article>
+  </section>
+
+  <!-- ===== FOOTER ===== -->
+  <footer class="site-footer container">
+    <span>© SMB Training</span>
+  </footer>
+
+  <!-- JS -->
+  <script src="app.js" defer></script>
+</body>
+</html>
